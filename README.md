@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ashaba Derrick</h1>
-<h3 align="center">A passionate fullstack developer from Uganda</h3>
+<h3 align="center">A passionate Fullstack Developer from Uganda</h3>
 <img align="right" alt="Flutter" width="400" src="https://flutterindia.dev/flappy-dash.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashaba123&label=Profile%20views&color=0e75b6&style=flat" alt="ashaba123" /> </p>
 
-- 🔭 I’m currently working on Beautispaces app
+- 🔭 I’m currently working with Lyca Mobile as a Software Tester
 
-- 🌱 I’m currently learning **Python,Javascript**
-
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Mobile Development | Website Development | Software Testing** 
 
 - 📫 How to reach me **shabdee@gmail.com**
+  
+- 🌱 I’m currently learning **Javascript**
 
 - ⚡ Fun fact **I think am friendly**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

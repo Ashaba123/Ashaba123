@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **shabdee@gmail.com**
   
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React and LLM**
 
 - ⚡ Fun fact **I think am friendly**
 - 

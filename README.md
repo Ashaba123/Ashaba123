@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashaba123&label=Profile%20views&color=0e75b6&style=flat" alt="ashaba123" /> </p>
 
-- 🔭 I’m currently working with Lyca Mobile as a Software Tester
 
 - 💬 Ask me about **Mobile Development | Website Development | Software Testing** 
 
